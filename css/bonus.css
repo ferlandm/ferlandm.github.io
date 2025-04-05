@@ -1,0 +1,12 @@
+#q1 {
+	display: none;
+}
+#q2 {
+	display: none;
+}
+#results{
+	display: none;
+}
+.pokemonChoice{
+	width: 20vw;
+}
